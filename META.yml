@@ -1,0 +1,21 @@
+---
+abstract: 'facility for dice managment with advanced grammar'
+author:
+  - 'Valerio Crini <vcrini@gmail.com>'
+build_requires:
+  Test::Differences: 0
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.31
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.101900, CPAN::Meta::Converter version 2.102160'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Dice
+requires:
+  Data::Dumper: 0
+  List::Util: 0
+  Parse::RecDescent: 0
+version: 0.26.1

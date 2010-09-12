@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+dice.cgi
+diceparsed.pl
+dist.ini
+lib/Dice.pm
+t/01_dice.t
